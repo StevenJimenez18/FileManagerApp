@@ -53,6 +53,7 @@ namespace Module9Demo1
                 case 5:
                     Console.Clear();
                     DeleteFile();
+                    Menu();
                     break;
                 case 6:
                     Console.Clear();
